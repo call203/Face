@@ -8,6 +8,5 @@ Pycharm 환경
 라이브러리 - opencv, dlib, numpy
 
 
+<img src="https://user-images.githubusercontent.com/57412714/74513094-26c8ee80-4f4d-11ea-9423-941a1c6f2a1e.PNG" alt="Your image title" width="250"/>
 
-
-![캡처](https://user-images.githubusercontent.com/57412714/74513094-26c8ee80-4f4d-11ea-9423-941a1c6f2a1e.PNG){: width="100" height="100"}
